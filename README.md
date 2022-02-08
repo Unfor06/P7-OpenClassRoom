@@ -7,7 +7,6 @@ Depuis le terminal lancer la commande "python3 -m venv env" pour créer un nouve
 
 depuis votre environnement virtuel tapez "git clone https://github.com/Unfor06/P7-OpenClassRoom"
 
-lancer la commande "pip install -r requirements.txt" pour installer les dépendances.
 
 # LANCEZ LE PROGRAMME
 
