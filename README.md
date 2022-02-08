@@ -10,7 +10,9 @@ depuis votre environnement virtuel tapez "git clone https://github.com/Unfor06/P
 lancer la commande "pip install -r requirements.txt" pour installer les dépendances.
 
 # LANCEZ LE PROGRAMME
+
 Tapez la commande "$ Python3 bruteforce.py" dans le dossier P7 OpenClassRoom pour le résultat en bruteforce.
+
 Tapez la commade "$ Python3 optimized.py" dans le dossier P7 OpenClassRoom pour le résultat en optimisé.
 
 
