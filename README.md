@@ -13,7 +13,7 @@ lancer la commande "pip install -r requirements.txt" pour installer les dépenda
 
 Tapez la commande "$ Python3 bruteforce.py" dans le dossier P7 OpenClassRoom pour le résultat en bruteforce.
 
-Tapez la commade "$ Python3 optimized.py" dans le dossier P7 OpenClassRoom pour le résultat en optimisé.
+Tapez la commande "$ Python3 optimized.py" dans le dossier P7 OpenClassRoom pour le résultat en optimisé.
 
 
 
